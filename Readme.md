@@ -48,8 +48,6 @@ Time Consumption:354.35353446006775
 
 ```
 
-<img src="https://cloud.tsinghua.edu.cn/lib/591c4d93-d54b-4a81-9913-548ceb9e7deb/file/images/auto-upload/image-1707195583841.png?raw=1" width="211.01251220703125" height="null" />
-
 There are other parameters in the codes that can be set for further simulations. Please refer to the source code and data.
 
 Contact us if you have further questions on deployment of the code: chenqun@tsinghua.edu.cn, sqh20@mails.tsinghua.edu.cn
