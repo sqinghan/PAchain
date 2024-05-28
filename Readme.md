@@ -1,8 +1,9 @@
 **Descriptions:**
 
-The codes for paper Break down the Trilemma in Management of Distributed Energy Systems: Decentralization, Security and Privacy are presented in the chain_project folder.
+This repository stores codes and data for the paper "Break down the Decentralization-Security-Privacy Trilemma in Management of Distributed Energy System"
+https://www.nature.com/articles/s41467-024-48860-7
 
-We provide scripts for simulations that can be run on a single PC without further preparation of the hardwares and their network connections, which can be found in directory "blockchain_preparations" and "blockchain".
+The codes are in the chain_project folder. We provide scripts for simulations that can be run on a single PC without further preparation of the hardwares and their network connections, which can be found in directory "blockchain_preparations" and "blockchain".
 
 We also provide scripts for simple simulations of the iterative procedure, which can be found in the "autonomous_optimization" directory. The data for the 60 node distribution grid in Yingkou city is also in this folder.
 
